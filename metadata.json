@@ -1,0 +1,6 @@
+{
+  "name": "Doctor Portfolio Template",
+  "description": "A premium, modern, and highly responsive doctor portfolio website template featuring chambers, fees, scheduling, FAQs, active navigation, and an interactive white-and-blue theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
